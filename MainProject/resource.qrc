@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Assets/png/icon2.0_arrow.png</file>
+        <file>Assets/png/icon2.0_data anlysis.png</file>
+        <file>Assets/png/icon2.0_data entry.png</file>
+        <file>Assets/png/icon2.0_data.png</file>
+        <file>Assets/png/icon2.0_display.png</file>
+        <file>Assets/png/icon2.0_dump,pit,data.png</file>
+        <file>Assets/png/icon2.0_dump.png</file>
+        <file>Assets/png/icon2.0_mills.png</file>
+        <file>Assets/png/icon2.0_parameter.png</file>
+        <file>Assets/png/icon2.0_pc.png</file>
+        <file>Assets/png/icon2.0_pit.png</file>
+        <file>Assets/png/icon2.0_stockpile,mill,pc.png</file>
+        <file>Assets/png/icon2.0_stockpile.png</file>
+        <file>Assets/qss/Obit.qss</file>
+        <file>Assets/png/icon2.0_arrow_body.png</file>
+        <file>Assets/png/icon2.0_arrow_head.png</file>
+        <file>Assets/png/minus.png</file>
+        <file>Assets/png/minus_hover.png</file>
+        <file>Assets/png/plus.png</file>
+        <file>Assets/png/plus_hover.png</file>
+    </qresource>
+</RCC>
